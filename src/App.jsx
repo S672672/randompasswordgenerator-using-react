@@ -16,7 +16,7 @@ function App() {
   };
 
   const passwordGenerator = useCallback(() => {
-    const character = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+    const character = "ABCDEFGHIJKLMNOPQsRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
     if(isNumbers){
       cons
     }
